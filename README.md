@@ -1,8 +1,6 @@
 # spa-universe
 
-Projeto 10 do curso explorer da Rocketseat: Stage 06.
-
-Nesse desafio foi proposto criar uma SPA(Single page application), utilizando routes e promisses.
+Nesse desafio me propus a criar uma SPA(Single page application), utilizando routes e promisses.
 
 O que foi abordado nesse desafio:
 
