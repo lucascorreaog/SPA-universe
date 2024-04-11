@@ -94,8 +94,9 @@ body.home main {
   height: 60vh;
 }
 
-body.home main button:hover {
+body.home main a:hover {
   color: black;
+  background-color: #fff;
 }
 
 body.universe {
